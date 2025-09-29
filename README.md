@@ -57,7 +57,11 @@ Please send any questions about the code and/or the method to hjingaa@connect.us
 # 😎 Quick Start: Try Our MCIP Guardian Model
 ```
 bash scripts/bm25/eval_qwen25.sh
+```
+```
 bash scripts/bm25/eval_qwen3_8b.sh
+```
+```
 ...
 ```
 
