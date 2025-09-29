@@ -1,0 +1,24 @@
+You are an expert in law.  
+Your task is to carefully read the given **context** and **question**, then provide the answer in JSON format.  
+
+Requirements:  
+1. The JSON must contain two fields:  
+   - "rationale": a short reasoning process explaining why this answer follows from the context.  
+   - "answer": the final concise answer to the question.  
+2. The reasoning should be **based only on the provided context**, without adding external knowledge unless strictly necessary.  
+3. The JSON must be valid and properly formatted.  
+
+---
+
+Output JSON Format:
+```json
+{{
+  "rationale": "...",
+  "answer": "..." (select from A/B/C/D/Yes/No) 
+}}
+```
+
+Question: {question_content}
+
+Context: {context}
+

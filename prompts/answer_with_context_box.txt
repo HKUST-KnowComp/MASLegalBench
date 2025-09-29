@@ -1,0 +1,12 @@
+You are an expert in law.  
+Your task is to carefully read the given **context** and **question** and answer the question. Please reason step by step, and put your final answer within \boxed{}.
+
+---
+
+Output Format:
+\boxed{A/B/C/D/Yes/No}
+
+Question: {question_content}
+
+Context: {context}
+

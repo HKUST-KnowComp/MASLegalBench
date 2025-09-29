@@ -1,0 +1,46 @@
+{
+  "builder_name": "parquet",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "legal_mediator",
+  "dataset_size": 1776539,
+  "description": "",
+  "download_checksums": {
+    "hf://datasets/AnonymousNodeGAE/legal_mediator@1c96b8aeadce90a37bd575a955e3a5fa7f018782/data/train-00000-of-00001.parquet": {
+      "num_bytes": 517487,
+      "checksum": null
+    }
+  },
+  "download_size": 517487,
+  "features": {
+    "content": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "type": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "source": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 2294026,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 1776539,
+      "num_examples": 4913,
+      "dataset_name": "legal_mediator"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
