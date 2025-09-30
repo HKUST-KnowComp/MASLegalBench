@@ -28,10 +28,10 @@
 
 
 <p align="center">
-  <!-- <a href='https://github.com/HKUST-KnowComp/MASLegalBench'>
-  <img src='https://img.shields.io/badge/Arxiv-2405.20340-A42C25?style=flat&logo=arXiv&logoColor=A42C25'>
-  </a>  -->
-  <a href='https://github.com/HKUST-KnowComp/MASLegalBench'>
+  <a href='https://arxiv.org/abs/2509.24922'>
+  <img src='https://img.shields.io/badge/Arxiv-2509.24922-A42C25?style=flat&logo=arXiv&logoColor=A42C25'>
+  </a> 
+  <a href='https://arxiv.org/pdf/2509.24922'>
   <img src='https://img.shields.io/badge/Paper-PDF-yellow?style=flat&logo=arXiv&logoColor=yellow'>
   </a> 
   <a href='https://github.com/HKUST-KnowComp/MASLegalBench'>
